@@ -1,0 +1,224 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+
+body {
+  text-align: center;
+  background-color: white;
+  font-family: "Merriweather", serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+.dogfood {
+ height: 225px; 
+ margin-left: 175px; 
+}
+
+.profile1 {
+  height: 160px;
+  width: 160px;
+  margin-left: 20px;
+  float: left;
+  padding: 20px;
+  
+}
+
+.profile2 {
+  height: 160px;
+  width: 160px;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+.profile3 {
+  height: 160px;
+  width: 160px;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+.farm {
+  margin-left: 140px;
+  height: 225px;
+  width: 300px;
+  padding: 20px;
+  
+}
+
+.face {
+  margin-left: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+.cow {
+  margin-left: 120px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+
+.dogfood {
+  margin-left: 120px;
+  height: 115px;
+  padding: 20px;
+}
+
+.treat {
+  margin-left: 140px;
+  height: 95px;
+  padding: 20px;
+}
+
+.bowl {
+  margin-left: 120px;
+  height: 100px;
+  padding: 20px;
+}
+
+.litterbox {
+  margin-left: 130px;
+  height: 90px;
+  width: 130px;
+  padding: 20px;
+}
+
+.pool {
+  margin-left: 130px;
+  height: 90px;
+  padding: 20px;
+  
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 40px;
+  color: #FF782E;
+  text-align:center;
+}
+
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 22px;
+  color: #147514;
+  text-align: center;
+  
+}
+
+h3 {
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+  color: #461900
+  
+}
+
+h4 {
+  text-align: left;
+}
+
+a { font-size: 18px;
+    color: grey;
+    font-family: 'Lato', sans-serif;
+    align-content: space-around; 
+  }
+
+.nav {
+  text-align: center
+}
+
+.nav nav a {
+  padding: 20px;
+justify-content: space-around;
+}
+
+.home {
+  display: inline-flex
+}
+
+.text {
+  max-width: 760px;
+}
+
+.stories {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.text2 {
+  display: inline-flex;
+  flex-direction: row;
+  font-family: "Merriweather", serif;
+  font-size: 15px;
+  color: #461900;
+  max-width: 1600px;
+}
+
+.text3 {
+  display: inline-flex;
+  max-width: 1250px;
+  
+}
+
+.text4 {
+  display: inline-flex;
+  max-width: 1200px
+}
+
+.text5 {
+  display: inline-flex;
+  max-width:1200px;
+}
+
+.text6 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.text7 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.text8 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.text9 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.text10 {
+  display: flex;
+  max-width: 1000px; 
+  vertical-align: text-top;
+}
+
+.text11 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.text12 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.text13 {
+  display: flex;
+  max-width: 1000px;   
+}
+
+.text14 {
+  display: flex;
+  max-width: 1000px;  
+}
+
+.label {
+ align-items: flex-start; 
+}
